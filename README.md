@@ -6,12 +6,15 @@ download gitbash
 start gitbash
 
 right click your documents folder
+
 click open with gitbash 
+
 type git clone "/framework-code-test-w-github-api" into gitbash 
 
-Press enter
-type cd "/framework-code-test-w-github-api"
 
+Press enter
+
+type cd "/framework-code-test-w-github-api"
 
 open this folder with your text editor by right clicking and selecting open with vs code(if you have it)
 
