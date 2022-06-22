@@ -1,27 +1,22 @@
-# FrameworkCodeTestWGithubApi
+## how to start this application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
-## Development server
+download gitbash
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+start gitbash
 
-## Code scaffolding
+right click your documents folder
+click open with gitbash 
+type git clone "/framework-code-test-w-github-api" into gitbash 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Press enter
+type cd "/framework-code-test-w-github-api"
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+open this folder with your text editor by right clicking and selecting open with vs code(if you have it)
 
-## Running unit tests
+open the terminal and type npm start ( make sure your folder is not nested.. If you open the folder incorectly, the app won't start.)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+you will see a local server in the terminal.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+go to that url and you will see the app running normally.
